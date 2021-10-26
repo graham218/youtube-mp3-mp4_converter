@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+}
+
+.app {
+  text-align: center;
+}
+
+.app__navbar {
+  background-color: #4b9c4f;
+  color: white;
+  padding: 30px;
+}
+
+.app__linkBox {
+  padding: 20px;
+}
+
+.app__linkBox input {
+  padding: 20px;
+  width: 80%;
+  font-size: 20px;
+  border-radius: 8px;
+}
